@@ -1,1 +1,4 @@
+<h1> Application Layer (OSI Model)
+
+This repository provides a detailed explanation of the Application Layer, the top layer of the OSI Model where end users interact directly with network services. It explains how applications access the network, focusing on common protocols such as HTTP (web browsing), FTP (file transfer), SMTP (email), and DNS (domain name resolution). The repo includes clear notes, practical examples, and simplified explanations to help beginners understand how data is requested, processed, and delivered across networks at the user level.
 
